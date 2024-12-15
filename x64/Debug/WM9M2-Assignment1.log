@@ -1,0 +1,65 @@
+﻿  game.cpp
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mathcal.h(6,9): warning C4005: 'max': macro redefinition
+  (compiling source file 'game.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(193,9):
+      see previous definition of 'max'
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mathcal.h(7,9): warning C4005: 'min': macro redefinition
+  (compiling source file 'game.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(197,9):
+      see previous definition of 'min'
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\ShaderReflection.h(47,26): warning C4101: 'data': unreferenced local variable
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\ShaderReflection.h(97,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\ShaderReflection.h(105,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\ShaderReflection.h(119,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\shader.h(51,26): warning C4101: 'data': unreferenced local variable
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mesh.h(98,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mesh.h(98,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mesh.h(103,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mesh.h(103,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mesh.h(257,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\mesh.h(261,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\Animation.h(46,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\Animation.h(52,10): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\Animation.h(82,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\Animation.h(211,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\Animation.h(212,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\game.cpp(87,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\game.cpp(87,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\game.cpp(88,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\u5636160\source\repos\WM9M2-Assignment1\WM9M2-Assignment1\game.cpp(88,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\u5636160\source\repos\WM9M2-Assignment1\x64\Debug\WM9M2-Assignment1.lib and object C:\Users\u5636160\source\repos\WM9M2-Assignment1\x64\Debug\WM9M2-Assignment1.exp
+  WM9M2-Assignment1.vcxproj -> C:\Users\u5636160\source\repos\WM9M2-Assignment1\x64\Debug\WM9M2-Assignment1.exe
